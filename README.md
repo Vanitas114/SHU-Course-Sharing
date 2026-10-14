@@ -24,3 +24,4 @@
 
 # 致谢
 
+浙江大学课程攻略共享计划——**[Github Repo](https://github.com/QSCTech/zju-icicles)**
