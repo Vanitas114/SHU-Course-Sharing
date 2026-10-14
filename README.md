@@ -1,4 +1,4 @@
-# 上海大学课程作业资料共享平台 😀
+# 上海大学课程作业资料共享平台
 
 上海大学课程作业资料共享平台——**[SHU-Course-Sharing](https://github.com/Vanitas114/SHU-Course-Sharing)**
 
